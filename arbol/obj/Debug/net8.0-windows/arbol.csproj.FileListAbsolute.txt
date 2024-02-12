@@ -1,0 +1,16 @@
+C:\Users\DELL 5590\source\repos\arbol\arbol\bin\Debug\net8.0-windows\arbol.exe
+C:\Users\DELL 5590\source\repos\arbol\arbol\bin\Debug\net8.0-windows\arbol.deps.json
+C:\Users\DELL 5590\source\repos\arbol\arbol\bin\Debug\net8.0-windows\arbol.runtimeconfig.json
+C:\Users\DELL 5590\source\repos\arbol\arbol\bin\Debug\net8.0-windows\arbol.dll
+C:\Users\DELL 5590\source\repos\arbol\arbol\bin\Debug\net8.0-windows\arbol.pdb
+C:\Users\DELL 5590\source\repos\arbol\arbol\obj\Debug\net8.0-windows\arbol.Form1.resources
+C:\Users\DELL 5590\source\repos\arbol\arbol\obj\Debug\net8.0-windows\arbol.csproj.GenerateResource.cache
+C:\Users\DELL 5590\source\repos\arbol\arbol\obj\Debug\net8.0-windows\arbol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5590\source\repos\arbol\arbol\obj\Debug\net8.0-windows\arbol.AssemblyInfoInputs.cache
+C:\Users\DELL 5590\source\repos\arbol\arbol\obj\Debug\net8.0-windows\arbol.AssemblyInfo.cs
+C:\Users\DELL 5590\source\repos\arbol\arbol\obj\Debug\net8.0-windows\arbol.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5590\source\repos\arbol\arbol\obj\Debug\net8.0-windows\arbol.dll
+C:\Users\DELL 5590\source\repos\arbol\arbol\obj\Debug\net8.0-windows\refint\arbol.dll
+C:\Users\DELL 5590\source\repos\arbol\arbol\obj\Debug\net8.0-windows\arbol.pdb
+C:\Users\DELL 5590\source\repos\arbol\arbol\obj\Debug\net8.0-windows\arbol.genruntimeconfig.cache
+C:\Users\DELL 5590\source\repos\arbol\arbol\obj\Debug\net8.0-windows\ref\arbol.dll
